@@ -1,0 +1,5 @@
+Iterations	Node1	Node2	Node3	Set N
+
+Iteration0	4	0	5	[1]
+Iteration1	4	0	5	[0, 1]
+Iteration2	4	0	5	[0, 1, 2]

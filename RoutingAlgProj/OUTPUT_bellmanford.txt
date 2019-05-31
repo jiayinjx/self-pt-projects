@@ -1,0 +1,4 @@
+Iterations	Node1	Node2	Node3
+
+Iteration0	(-1, inf)	(1, 0)	(-1, inf)
+Iteration1	(1, 4)	(1, 0)	(1, 5)
